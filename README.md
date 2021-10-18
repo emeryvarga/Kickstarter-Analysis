@@ -15,12 +15,17 @@ In Figure 1, a line chart was created detailing the outcomes of 1,369 theater ca
 
 Figure 1: Timeline of 1,369 theater campaign outcomes
 Figure 1 tells us that failed campaigns spiked at 52 in May and 50 in October. The challenge with this data is that it doesn’t consider the percentage of outcomes for any given month, which can be misleading if more campaigns were launched during certain time periods.
+
+![Percentage_Theater_Outcomes](Resources/Percentage_Theater_Outcomes.png)
+
 In Figure 2, the Month of May had the lowest percentage of failed campaigns at 31%. Failed campaigns spike at 43% in October, and 47% in December.
  
 Figure 2: Percentage of theater campaign outcomes based on launch date
 B.	Outcomes Based on Goal
 Louise’s goal is to raise $12,000 for her play. Figure 3 displays the outcomes of successful and failed campaigns for plays organized by their fundraising goal. Those with a goal of $10,000 to $14,999 had a 54% success rate. Campaigns asking for less than $1,000 had the highest success rate of 76%, and 100% of campaigns asking between $45,000 and $49,999 failed. We do see a spike in successful campaigns asking between $35,000 and $44,999, but this data only considers 9 campaigns making it less reliable.
- 
+
+
+
 Figure 3: Percentage of play campaign outcomes based on fundraising goal
 The challenge with pulling the data for Figure 3 was that writing the formulas and goal amounts was a somewhat manual process, making it more likely to create an error in the data.
 
