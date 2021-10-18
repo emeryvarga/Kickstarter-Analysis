@@ -40,6 +40,9 @@ The challenge with pulling the data for Figure 3 was that writing the formulas a
 IV.	Results
 
 Based on the analysis of Theater Outcomes by Launch date, we can conclude that Louise should launch her campaign in May because it had the highest percentage of successful outcomes. Furthermore, she should avoid launching the campaign in October and December since campaigns in those months were the least successful.
+
 Louise should also limit her fundraising goal to $12,000 and avoid increasing the goal throughout the campaign since the percentage of successful campaigns continue to drop as the goal amount increases. As campaign goals increase, our data becomes less reliable since the number of campaigns asking for more donations decrease.
+
 The limitations of this dataset are that it doesn’t describe what methods were used to raise money and which demographics were targeted. For example, it doesn’t include whether donations were made online, through community events, or even bake sales. Furthermore, which demographic contributed the most to theater campaigns? Such an insight could help Louise maximize her donations by targeting specific groups or institutions.
+
 Using the data provided, we can dive deeper into the duration of campaigns to determine if longer campaigns generated more donations, or if the goals of successful campaigns were met within a shorter time period. This would allow Louise to allocate her resources accordingly and decide, for example, if she needs to spread out her campaign to target recurring donors or focus on expanding her reach during a shorter time period.
