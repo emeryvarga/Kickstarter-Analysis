@@ -11,7 +11,7 @@ III.	Analysis and Challenges
 A.	Outcomes Based on Launch Date
 In Figure 1, a line chart was created detailing the outcomes of 1,369 theater campaigns based on their launch date. The noticeable spikes of successful outcomes in the months of May and June are present because more donations were received during these months. Campaigns launched in May and June generated 111 and 100 successful outcomes, respectively.
 
-![Theater_Outcomes_vs_Launch]
+![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
 
 Figure 1: Timeline of 1,369 theater campaign outcomes
 Figure 1 tells us that failed campaigns spiked at 52 in May and 50 in October. The challenge with this data is that it doesn’t consider the percentage of outcomes for any given month, which can be misleading if more campaigns were launched during certain time periods.
