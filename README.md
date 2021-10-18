@@ -5,9 +5,11 @@ I.	Overview
 
 Louise is an up-and-coming playwright who wants to start a crowdfunding campaign for her play, Fever. She is estimating a budget of $12,000 and is looking for insights from previous campaigns to help make her project successful.
 
+
 II.	Purpose
 
 This report provides a quantitative analysis of crowdfunding campaigns to help Louise plan her project accordingly. Throughout this paper, we will take a deep dive into factors that contribute to successful campaigns, including the best time to launch a campaign and the likelihood of reaching her goal of $12,000.
+
 
 III.	Analysis and Challenges
 
@@ -27,6 +29,7 @@ In Figure 2, the Month of May had the lowest percentage of failed campaigns at 3
 
 Figure 2: Percentage of theater campaign outcomes based on launch date
 
+
 B.	Outcomes Based on Goal
 
 Louise’s goal is to raise $12,000 for her play. Figure 3 displays the outcomes of successful and failed campaigns for plays organized by their fundraising goal. Those with a goal of $10,000 to $14,999 had a 54% success rate. Campaigns asking for less than $1,000 had the highest success rate of 76%, and 100% of campaigns asking between $45,000 and $49,999 failed. We do see a spike in successful campaigns asking between $35,000 and $44,999, but this data only considers 9 campaigns making it less reliable.
@@ -36,6 +39,7 @@ Louise’s goal is to raise $12,000 for her play. Figure 3 displays the outcomes
 Figure 3: Percentage of play campaign outcomes based on fundraising goal
 
 The challenge with pulling the data for Figure 3 was that writing the formulas and goal amounts was a somewhat manual process, making it more likely to create an error in the data.
+
 
 IV.	Results
 
